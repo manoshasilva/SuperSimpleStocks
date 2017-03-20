@@ -1,0 +1,16 @@
+stocks/calc/peratio/PERatioCalculator.class
+stocks/StockType.class
+stocks/trade/controller/TradeController.class
+stocks/calc/dividendyield/impl/CommonDividendYieldCalculator.class
+stocks/calc/dividendyield/impl/PreferredDividendYieldCalculator.class
+stocks/trade/data/TradeHolder.class
+stocks/calc/dividendyield/service/DividendYieldCalculatorService.class
+stocks/calc/geomean/GeometricMeanCalculator.class
+stocks/trade/data/TradeHolder$1.class
+stocks/trade/Trade.class
+stocks/calc/dividendyield/DividendYieldCalculator.class
+stocks/calc/dividendyield/factory/DividenfYieldCalculatorFactory.class
+stocks/calc/stockprice/VolumeWeightedStockPriceCalculator.class
+stocks/trade/data/TradeHolder$SingletonHolder.class
+stocks/Stock.class
+stocks/trade/TradeType.class
